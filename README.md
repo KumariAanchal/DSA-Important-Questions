@@ -25,7 +25,3 @@ Your contributions will be greatly appreciated and will help create a diverse co
 ## License
 
 The Daily Data Structures Coding Questions repository is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to express our gratitude to the coding community for their continuous support and contribution to the field of data structures and algorithms. Your collective efforts inspire and motivate us to create meaningful resources like this repository.
